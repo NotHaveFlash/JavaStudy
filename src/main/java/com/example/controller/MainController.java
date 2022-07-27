@@ -4,5 +4,5 @@ import org.springframework.stereotype.Controller;
 
 @Controller
 public class MainController {
-    int i;
+    int i=1;
 }
